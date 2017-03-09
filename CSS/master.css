@@ -1,0 +1,49 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box{
+	width: 400px;
+	height:  450px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 160px;
+	text-align: center;
+
+} 
+.prof-pic{
+	border-radius: 50%;
+	height:  200px;
+	width: 200px;
+}
+h1{
+	font-weight: 100;
+	font-size: 40px;
+	letter-spacing: 6;
+}
+p{
+	font-weight: 200;
+	letter-spacing: 1;
+}
+.social-icons{
+	font-size: 40px;
+}
+.social-icons a{
+	color: white;
+
+}
+
+.line-break{
+	width: 300px;
+	border-top: 1px solid white;
+margin: 0 auto;
+
+	
+}
